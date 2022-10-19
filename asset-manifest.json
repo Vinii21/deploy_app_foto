@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy_app_foto/static/css/main.cd6521b3.css",
-    "main.js": "/deploy_app_foto/static/js/main.3723d780.js",
+    "main.js": "/deploy_app_foto/static/js/main.1c89c404.js",
     "static/media/header.png": "/deploy_app_foto/static/media/header.a0577ce2eeb501ce4f6f.png",
     "static/media/espacio.jpg": "/deploy_app_foto/static/media/espacio.61f607d5951b79d90f2f.jpg",
     "static/media/novios2.webp": "/deploy_app_foto/static/media/novios2.9727239c78641d6c604c.webp",
@@ -25,10 +25,10 @@
     "static/media/venue_location_icon.svg": "/deploy_app_foto/static/media/venue_location_icon.fdcd72ecb8e3a16673dc49e60d4b291b.svg",
     "index.html": "/deploy_app_foto/index.html",
     "main.cd6521b3.css.map": "/deploy_app_foto/static/css/main.cd6521b3.css.map",
-    "main.3723d780.js.map": "/deploy_app_foto/static/js/main.3723d780.js.map"
+    "main.1c89c404.js.map": "/deploy_app_foto/static/js/main.1c89c404.js.map"
   },
   "entrypoints": [
     "static/css/main.cd6521b3.css",
-    "static/js/main.3723d780.js"
+    "static/js/main.1c89c404.js"
   ]
 }
