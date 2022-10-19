@@ -1,0 +1,9 @@
+.fullSesion{
+    background: rgb(192,49,46);
+    background: linear-gradient(0deg, rgba(192,49,46,1) 8%, rgba(49,48,104,1) 76%);
+}
+
+.basicSesion{
+    background: #6e3f90;
+    background: linear-gradient(356deg, #6e3f90 17%, #08173b 69%);
+}
