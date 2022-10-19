@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/deploy_app_foto/static/css/main.cd6521b3.css",
+    "main.js": "/deploy_app_foto/static/js/main.3723d780.js",
+    "static/media/header.png": "/deploy_app_foto/static/media/header.a0577ce2eeb501ce4f6f.png",
+    "static/media/espacio.jpg": "/deploy_app_foto/static/media/espacio.61f607d5951b79d90f2f.jpg",
+    "static/media/novios2.webp": "/deploy_app_foto/static/media/novios2.9727239c78641d6c604c.webp",
+    "static/media/gastronomia.jpg": "/deploy_app_foto/static/media/gastronomia.64e00ca461cd6de3fdda.jpg",
+    "static/media/bolso.jpg": "/deploy_app_foto/static/media/bolso.6c3efb5438f3e6a834bd.jpg",
+    "static/media/familia.jpg": "/deploy_app_foto/static/media/familia.e22caa117adfcaf58dec.jpg",
+    "static/media/bootstrap-icons.woff?": "/deploy_app_foto/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/mascota.jpg": "/deploy_app_foto/static/media/mascota.7b5fe5857b26be1173f9.jpg",
+    "static/media/novios1.jpg": "/deploy_app_foto/static/media/novios1.1bd4182698b223361b59.jpg",
+    "static/media/boda.jpg": "/deploy_app_foto/static/media/boda.3d4c64d97866ddb9ef51.jpg",
+    "static/media/bootstrap-icons.woff2?": "/deploy_app_foto/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/modelo.jpg": "/deploy_app_foto/static/media/modelo.33f08d1a595249b029f1.jpg",
+    "static/media/novios5.jpg": "/deploy_app_foto/static/media/novios5.a934607f52525f4e35f9.jpg",
+    "static/media/novios6.jpg": "/deploy_app_foto/static/media/novios6.2b17da5c5fc2df9649f2.jpg",
+    "static/media/pareja.jpg": "/deploy_app_foto/static/media/pareja.40e919cdd9259fefcd3f.jpg",
+    "static/media/LOGO.png": "/deploy_app_foto/static/media/LOGO.26f2fc5e00d47a4f5c77.png",
+    "static/media/novios3.jpg": "/deploy_app_foto/static/media/novios3.1f8a1371c3e1d294d559.jpg",
+    "static/media/Ghost.gif": "/deploy_app_foto/static/media/Ghost.ba14ef100d3dc845a965.gif",
+    "static/media/novios4.webp": "/deploy_app_foto/static/media/novios4.8515f15c4403e632e9fa.webp",
+    "static/media/swirl_pattern.webp": "/deploy_app_foto/static/media/swirl_pattern.0678769b4e9cd3c809f3.webp",
+    "static/media/venue_location_icon.svg": "/deploy_app_foto/static/media/venue_location_icon.fdcd72ecb8e3a16673dc49e60d4b291b.svg",
+    "index.html": "/deploy_app_foto/index.html",
+    "main.cd6521b3.css.map": "/deploy_app_foto/static/css/main.cd6521b3.css.map",
+    "main.3723d780.js.map": "/deploy_app_foto/static/js/main.3723d780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6521b3.css",
+    "static/js/main.3723d780.js"
+  ]
+}
