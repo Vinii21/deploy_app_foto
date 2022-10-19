@@ -9,9 +9,9 @@ function App() {
   
   return (
     <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="/sesiones" element={<PaginaSecciones />}/>
-        <Route path="/admin" element={<PanelAdministrador />}/>
+        <Route path="/home" element={<Home/>}/>
+        <Route path="/home/sesiones" element={<PaginaSecciones />}/>
+        <Route path="/home/admin" element={<PanelAdministrador />}/>
         <Route path="*" element={<Error404 />} />
       </Routes>
   );
